@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Football Match Schedule</string>
+    <string name="home_team">Home Team</string>
+    <string name="away_team">Away Team</string>
+    <string name="default_score">0</string>
+    <string name="versus">vs</string>
+    <string name="home_team_badge">home Team Badge</string>
+    <string name="away_team_badge">away team badge</string>
+    <string name="default_shots">0</string>
+    <string name="shots">Shots</string>
+    <string name="default_yellow_cards">0</string>
+    <string name="yellow_cards">Yellow Cards</string>
+    <string name="default_red_cards">0</string>
+    <string name="red_cards">Red Cards</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite_success">Added to favorite</string>
+    <string name="unfavorite_success">Removed from favorite</string>
+    <string name="teams">Teams</string>
+    <string name="matches">Matches</string>
+    <array name="league">
+        <item>4328|English Premier League</item>
+        <item>4329|English League Championship</item>
+        <item>4331|German Bundesliga</item>
+        <item>4332|Italian Serie A</item>
+        <item>4334|French Ligue 1</item>
+        <item>4335|Spanish La Liga</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="player_height">Height (m)</string>
+    <string name="player_weight">Weight (kg)</string>
+    <string name="search">search</string>
+    <string name="tab_matches">Matches</string>
+    <string name="tab_teams">Teams</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="search_match">Search Match..</string>
+    <string name="search_team">Search Team..</string>
+</resources>
